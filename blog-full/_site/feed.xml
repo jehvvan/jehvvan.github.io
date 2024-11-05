@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eolvvin</title>
+    <description>eolvvin
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 08 Oct 2023 17:23:44 +0800</pubDate>
+    <lastBuildDate>Sun, 08 Oct 2023 17:23:44 +0800</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Why Kids Need to Showcase Their Creations: Sharing the Joy of Coding</title>
+        <description>&lt;p&gt;One of the most rewarding aspects of learning to code is the ability to share your creations with friends and family. For kids, being able to showcase their cool designs and share their code is a natural progression in their coding journey. It’s a chance to proudly display their digital handiwork and spark excitement in those around them. This is where Gravity Graphics steps in, providing a platform that not only fosters creativity but also facilitates the sharing of their coding accomplishments.&lt;/p&gt;
+
+&lt;p&gt;At Gravity Graphics, we understand the importance of enabling kids to present their work to a wider audience. Our platform comes equipped with its own open-source library that kids can access from the internet. This means that they can run their code in any web browser or JavaScript code editor, as well as showcase their projects on websites like codepen.io. With this feature, kids have the freedom to display their code and designs anywhere and on any platform, opening up a world of possibilities for sharing and collaboration.&lt;/p&gt;
+
+&lt;p&gt;But our commitment to empowering young coders goes beyond just the presentation of their work. We firmly believe in teaching kids to code using direct text input from the keyboard, rather than relying on drag-and-drop code snippets, as is common on many coding learning platforms. While drag-and-drop interfaces can be helpful initially, they can also create a dependency that limits a child’s ability to adapt to different programming platforms or online editors.&lt;/p&gt;
+
+&lt;p&gt;By embracing direct text input, kids become proficient in the universal language of coding. This method ensures that they can seamlessly transition to any platform or environment, where all coding is performed using this input method. It empowers them with a skill set that is not only versatile but also valuable as they progress in their coding journey.&lt;/p&gt;
+
+&lt;p&gt;The ability to showcase their work to friends and family is a vital part of a child’s coding experience. It fosters a sense of pride and accomplishment and encourages them to continue exploring the world of coding. Gravity Graphics provides the tools and support necessary for kids to not only create amazing projects but also share them with the world. With our open-source library and focus on direct text input, we empower young coders to code confidently and showcase their talents wherever their coding adventures take them.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Feb 2023 08:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/2023/02/11/sharing-the-joy-of-coding.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2023/02/11/sharing-the-joy-of-coding.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>What Makes Learning Coding a Fun and Creative Journey</title>
+        <description>&lt;p&gt;When it comes to making learning coding an enjoyable experience, let’s draw a parallel with what makes games so much fun. Children and young adults, our primary audience, are naturally drawn to the world of gaming. If there’s one thing that can inspire them to delve into programming, it’s the allure of creating games. Games provide a platform for self-expression and creativity, allowing kids to do extraordinary things within the game’s universe. The more diverse the ways they can interact with the game, the more fun it becomes. After all, the joy of gaming lies in the multitude of possible outcomes, not in a linear, one-size-fits-all approach.&lt;/p&gt;
+
+&lt;p&gt;So, the first essential component of a fun coding learning platform is a flexible sandbox—a digital canvas where kids can freely express their creativity. To equip them with the tools to paint on this canvas, we need to provide them with the fundamental building blocks of programming, the equivalent of paint and paintbrush.&lt;/p&gt;
+
+&lt;p&gt;Many coding education platforms for kids attempt to make coding interesting by adding layers of complexity on top of basic functions. They might introduce animated characters like dogs that kids can program to move, turn, or perform actions. However, this approach is akin to giving kids stickers to paste on a painted canvas instead of teaching them how to use the paint and brush themselves.&lt;/p&gt;
+
+&lt;p&gt;For those eager to explore and intellectually curious, this approach raises more questions than answers. A child might wonder why it’s a dog and not a cat, or where the code for the dog resides. Many of these questions may be too complex for the instructor to address adequately at this stage.&lt;/p&gt;
+
+&lt;p&gt;At Gravity Graphics, we take a different approach. We begin by teaching kids the most basic graphics skills: plotting a dot or pixel on the screen. From this foundation, we gradually build up their skills to plot lines, squares, and more. This method allows kids to grasp the fundamentals of programming with graphics without overwhelming them with unnecessary frills.&lt;/p&gt;
+
+&lt;p&gt;As we expand their coding vocabulary, introducing concepts like for loops, random functions, and color manipulation for pixels and lines, kids gain the ability to make the computer dance to their tune. They can create multicolored checkered patterns, mesmerizing vortex tunnels, scattered random dots on the screen, and the possibilities are endless. With this knowledge alone, kids can feel that they have truly learned the essence of programming.&lt;/p&gt;
+
+&lt;p&gt;The key to making learning coding enjoyable is to provide a creative and flexible environment where kids can experiment, express themselves, and gradually build their skills. By focusing on the core concepts and empowering kids to create with code, we can turn the journey of learning coding into a fun and fulfilling adventure.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jan 2023 08:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/2023/01/20/what-makes-coding-fun.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2023/01/20/what-makes-coding-fun.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>What Makes Great Coders</title>
+        <description>&lt;p&gt;What make great coders are the same things that make great chemists, great writers, or great mathematicians. It’s a passion for curiosity, creativity, and an insatiable drive to explore the possibilities.&lt;/p&gt;
+
+&lt;p&gt;When a great chemist is presented with the interaction of two chemicals, their mind ignites with curiosity. They yearn to delve deeper, to understand what happens when different substances combine. It’s not just about reacting elements; it’s about uncovering the hidden secrets of chemistry.&lt;/p&gt;
+
+&lt;p&gt;Likewise, a gifted writer can turn the mundane into the extraordinary. The mere knowledge of constructing a sentence becomes a canvas for creativity. Words and sentences are their tools, skillfully woven together to craft a story, to paint a vivid picture that exists only in their mind.&lt;/p&gt;
+
+&lt;p&gt;For the average person, mathematics is often perceived as a means to count money, take measurements, or handle everyday tasks. But great mathematicians’ inquisitiveness propels them to ask profound questions, like the eternal existence of equally spaced prime numbers.&lt;/p&gt;
+
+&lt;p&gt;The same spark of curiosity, passion and imagination applies in the realm of coding. When a great coder is introduced to the fundamentals, their mind begins to wander. They wonder about the outcomes of combining code in creative ways. Perhaps an idea has taken root in their mind, waiting to materialize through the art of programming.&lt;/p&gt;
+
+&lt;p&gt;To a great coder, programming is not just a set of rules and syntax. It’s a toolbox of endless possibilities. Just as a writer views words as instruments to create worlds, a coder sees programming as a means to construct and innovate. It’s about building something greater, something beyond the realm of conventional knowledge, rather than passively consuming information.&lt;/p&gt;
+
+&lt;p&gt;The qualities that define a great coder are the same qualities that make any professional excel in their field. It’s the relentless curiosity, the creative spirit, and the burning desire to explore, innovate, and create that sets them apart. Coding is not just a skill but a journey of self-expression and invention, where every line of code is a brushstroke on the canvas of endless possibilities.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jan 2023 08:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/2023/01/10/what-makes-good-coders-great.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2023/01/10/what-makes-good-coders-great.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Everything is Nature-Built</title>
+        <description>&lt;p&gt;When one stumbles upon a car nestled within the depths of a forest, it triggers a peculiar reaction—a stark contrast between the man-made and the natural world. It’s a reaction ingrained in our collective consciousness, one that has us perceiving ourselves as distinct from other creatures due to our unique capacity to conceive and construct intricate objects like cars and computers. We’ve long maintained a rigid demarcation, a clear divide between our creations and the environment, a divide as unmistakable as the separation of land and sea. Yet, as we scrutinize this division, we find it less absolute than it initially seems.&lt;/p&gt;
+
+&lt;p&gt;Consider the scene: a car, a tangible testament to human ingenuity, resting under the forest canopy, and a termite mound nearby. The car—a marvel of engineering, the termite mound—an architectural masterpiece crafted by countless termites. At first glance, they appear as polar opposites—one, a result of human innovation, and the other, a manifestation of nature’s intricate processes. Nevertheless, the line that separates them begins to blur upon closer examination, forcing us to reconsider our conventional notions of what is natural and what is man-made.&lt;/p&gt;
+
+&lt;p&gt;Should we entertain the idea of the termite mound as a natural creation, sculpted meticulously by termites over time, we must inevitably question why we categorize the car, painstakingly constructed by humans, as inherently different. Could it be that our ability to manipulate and shape the environment through our inventions is merely another facet of nature’s grand design? What if the division between the natural and the man-made is not as rigid as we’ve been conditioned to believe?&lt;/p&gt;
+
+&lt;p&gt;Termites themselves are astonishing creatures. They embark on architectural endeavors that rival our own, constructing intricate mounds to house their colonies. These structures serve a multitude of vital functions, from temperature regulation to defense against predators. Their construction is an innate part of their existence, driven by primal instincts and the needs of their species.&lt;/p&gt;
+
+&lt;p&gt;Now, consider humans. We, too, are driven by instincts and needs. We require shelter, transportation, and tools for survival and progress. In response to these needs, we’ve erected dwellings, engineered transportation systems, and designed tools and machines—the very cars that occasionally find themselves deep within the woods. Just as termites build mounds as a natural expression of their species, humans create cars and other technological marvels as natural expressions of our own.&lt;/p&gt;
+
+&lt;p&gt;The crux of understanding the connection between the car in the forest and the termite mound lies in our perspective. When we observe the termite mound, we view it as an outcome of nature’s processes, shaped by eons of evolution and the survival instincts of termites. We recognize that termites are an integral part of the grand tapestry of the natural world.&lt;/p&gt;
+
+&lt;p&gt;Now, apply that perspective to the car. If we consider that humans, like termites, are products of nature, then the creations of humans, including cars, can be seen as natural extensions of our species. In this light, our inventions become just another manifestation of the vast diversity that nature itself encompasses.&lt;/p&gt;
+
+&lt;p&gt;Revising our understanding of the natural world to encompass the products of human ingenuity has far-reaching implications for our relationship with the environment. It encourages us to see ourselves not as separate from nature but as active participants in a complex web of life. We are a species with the remarkable capacity to shape and adapt to our surroundings, much like any other species.&lt;/p&gt;
+
+&lt;p&gt;This perspective invites us to adopt a more responsible and harmonious approach to our environment. Recognizing that our creations are, ultimately, products of nature may lead us to consider their impact on the natural world more deeply and push us toward sustainable solutions. It could serve as the catalyst for a transition to more eco-friendly technologies and practices, aligning human innovation more closely with the broader ecosystem.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, the car in the forest serves as a compelling reminder that our traditional distinctions between what is natural and what is man-made are not as unequivocal as they once appeared. When we view it through the lens of nature’s diversity, it becomes evident that it, too, is a product of the same forces that shaped the termites and their mounds. This perspective bridges the gap between human creations and nature, inviting us to reevaluate our role in the natural world. We are not separate from nature but intricately woven into its tapestry, entrusted with the responsibility of nurturing and preserving its delicate balance. Embracing this perspective may very well be the key to a more sustainable and harmonious future, both for humanity and for the planet we call home.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 May 2020 08:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/2020/05/21/everything-is-nature-built.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2020/05/21/everything-is-nature-built.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Solving the Trolley Problem in Autonomous Vehicles</title>
+        <description>&lt;p&gt;The “trolley problem” is an ethical dilemma, that is a significant concern in the development of autonomous vehicles. It involves decisions on how self-driving cars should act when human harm is inevitable. This is usually a topic of debate but I think the solution is rather simple.&lt;/p&gt;
+
+&lt;p&gt;The assumption here is that if an autonomous car has only two options - one leading to its intended path with people and the other to an alternative path - it will always choose its intended path, even if it means causing harm.&lt;/p&gt;
+
+&lt;p&gt;However, considering factors like the number of people on the street or the importance of a person on the intended path shouldn’t be based on societal or economic benefits. The established justice system prioritizes the principle that no one is above the law, so a person’s wealth or status should not influence the decision.&lt;/p&gt;
+
+&lt;p&gt;The focus here is on simplifying accountability in accidents involving autonomous cars and pedestrians. In such cases, it’s easier to determine fault when it’s between the autonomous car and the person crossing the road. This approach avoids complicated legal issues that may arise if the autonomous car collides with an unrelated group of pedestrians not involved in the initial incident.&lt;/p&gt;
+
+&lt;p&gt;For example, if a pedestrian is jaywalking on the intended path, and the autonomous car chooses to hit another pedestrian on a different road, the latter pedestrian may be fatally injured, while the jaywalker remains unharmed. The solution emphasizes the importance of clear accountability, reducing legal complexities and ensuring that the actions of the autonomous car are legally defensible.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 Apr 2020 08:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/2020/04/04/trolly-problem-in-autonomous-vehicles.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2020/04/04/trolly-problem-in-autonomous-vehicles.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>The Universe Abhors Infinity</title>
+        <description>&lt;p&gt;If you were someone who lived in a time when no one knew the Earth was spherical, then you might think that the land on Earth is infinite. Without any landmarks or knowledge of where you are, you would believe the land on Earth to be limitless because you could walk endlessly on Earth without falling off the edges. However, the universe isn’t also finite in the way people in the past thought that if you walked far enough to the edge of the world, you would fall off the Earth.&lt;/p&gt;
+
+&lt;p&gt;When people see our Earth as part of an expansive universe, they automatically assume that the universe is infinite. This is probably because we cannot comprehend that we are such a small speck in a universe so vast yet seemingly not infinite. Then we discovered the Big Bang, where the universe had a start. But the Big Bang isn’t a point from which the universe expanded. Right now, the universe is expanding from every direction, surprisingly faster and faster. However, if the universe had a beginning, that would mean it is not infinite. To be infinite, something would have to come into existence all together and span everywhere forever. We don’t have anything in our universe that has that level of infinity. If the universe had a start, it implies that it had to grow with time, and with that inference, it isn’t infinite. Similar to the Earth, we couldn’t travel to the edge of the universe and fall off the edge or float into nothingness. The universe, like the Earth, probably wraps into itself one way or another.&lt;/p&gt;
+
+&lt;p&gt;Taking it a step further, we can infer that time isn’t infinite as well, since time is nothing more than a dimension in our space-time continuum. If time isn’t infinite, that means time probably loops back onto itself like Earth and our universe. Perhaps, if we lived long enough, we might come back to a point in time where we see ourselves being born.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Mar 2020 08:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/2020/03/18/the-universe-abhors-infinity.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2020/03/18/the-universe-abhors-infinity.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Categorizing Civilizations by Distance Travelled</title>
+        <description>&lt;p&gt;When we are born we find ourselves in baby cribs as infants. As toddlers and kids, we begin to explore the room and spaces in our house. As we grow older we begin to explore our neighborhood. As young adults we start exploring our state, our country, and we later progress to visit other countries, and subsequently other continents.&lt;/p&gt;
+
+&lt;p&gt;The progress of our civilization on Earth could also be generally measured the same way. From early humans who settled on farms, to traders who travelled from country to country to trade, and to explorers who sailed across oceans to new continents, our civilization has progressed as such. With the industrial age, and the advent of cars, liners, and planes, we have seen a renewed wave of progress whereby we are able to travel around our neighborhood, across our nation, and to other countries, with much more ease and frequency.&lt;/p&gt;
+
+&lt;p&gt;However on an interstellar perspective, the vast majority of us have still never left the our crib – the Earth. Only a few have been in orbit around the Earth which is equivalent to exploring around our house, and only 12 people have walked the moon which is like the compound of our house. So far no humans have been to the closest planet which is equivalent to the next house. It will take a much longer time to have visited our entire solar system - our neighborhood. And even longer to reach the nearest star Alpha Centauri which is about 4.35 light-years away. Only when we are able to visit the furthest stars in our galaxy, can we consider ourselves having visited our entire country/continent. And then there are voyagers to other galaxies/continents waiting for our space-fearing species to overcome.&lt;/p&gt;
+
+&lt;p&gt;By then, perhaps we are advanced enough where we can contemplate about travelling to other universes, where in the perspective of multiverses, we once again find our civilization starting back at our proverbial crib.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Feb 2020 08:10:45 +0800</pubDate>
+        <link>http://localhost:4000/blog/2020/02/01/civilization-distance-travelled.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2020/02/01/civilization-distance-travelled.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 30 Nov 2015 08:10:45 +0800</pubDate>
+        <link>http://localhost:4000/blog/2015/11/30/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015/11/30/welcome-to-jekyll.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>

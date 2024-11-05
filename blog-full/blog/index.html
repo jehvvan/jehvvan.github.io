@@ -1,0 +1,26 @@
+---
+layout: layout_blog
+---
+<div id="main" role="main">
+  <article class="entry">
+    
+    <div class="entry-wrapper">
+      <header class="entry-header">
+        <h1 class="entry-title"></h1>
+      </header>
+      <div class="entry-content">
+        <div id="home">
+        
+            <h1>Blog Posts</h1>
+            <ul>
+            {% for post in site.posts %}
+            		<li><time>{{ post.date | date: "%Y-%m-%d" }}</time> -- <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
+            <!--p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p-->
+        
+        </div>
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-wrapper -->
+  </article>
+</div><!-- /#main -->

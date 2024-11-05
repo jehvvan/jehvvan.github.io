@@ -1,0 +1,39 @@
+$content-width: 780px;
+$main: #333;
+$font-style: 'Source Sans Pro', sans-serif;
+$font-color: #555;
+$link-color: #666;
+$link-hover-color: $main;
+$heading-font: 'Volkhov', serif;
+$heading-font-color: #444;
+$name-font: 'Overpass Mono', monospace;
+$white: #fff;
+$near-white: #f3f3f3;
+$light: #E7EDF4;
+$text-light: #ccc;
+$medium: #aaa;
+$dark: #444;
+$header:  #fff;
+$background: $white;
+$asciitextsize: 0.8em;
+$navbartop: 0px;
+$navbarbottom: 0px;
+$linecolor: rgba(68, 68, 68, 0.1);
+$nav: $near-white;
+$nav: $dark;
+$navline: 0px;
+
+$navwidth: $content-width;
+$navwidth: 800px;
+
+$nav-text: #888;
+$serif: 'Volkhov', serif;
+
+*,
+*::before,
+*::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+} 
+

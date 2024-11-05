@@ -1,0 +1,18 @@
+# Site Settings
+title: eolvvin
+email: eolvvin@gmail.com
+description: >
+  eolvvin
+url: "http://eolvvin.github.io/"
+tumblr_username: eolvvin
+twitter_username: eolvvin
+github_username: eolvvin
+soundcloud_username: eolvvin
+pinterest_username: eolvvin
+wordpress_username: eolvvin
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
